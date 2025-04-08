@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto1&height=300&section=header&text=WELCOME%20TO%20MY%20Git👋&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WELCOME%20TO%20MY%20Git👋&fontSize=40)
 
 ### Introduction!
  _  _  _ 
@@ -13,6 +13,13 @@ _ _ _
     ![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+
+### Contact
+_ _ _
+✉️ Email 
+
+![ask](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
 <!--
 **Jiyeong-hub/Jiyeong-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
